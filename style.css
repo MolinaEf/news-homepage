@@ -295,7 +295,7 @@ hr{
     .nav-wrap{
         grid-area: nav;
         height: 5rem;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.2rem;
     }
 
     .nav-bar-mobile{
